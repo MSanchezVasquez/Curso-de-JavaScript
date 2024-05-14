@@ -10,8 +10,8 @@ numero2=2;
 numero3=3;
 
 //Pruebas con prompt
-let nombre = prompt("Decime tu name: ")
-alert("Hola "+nombre);
+let nombre = prompt("Decime tu name:");
+alert("Hola"+nombre);
 
 //Operadores de asignacion
 let num = 10;
